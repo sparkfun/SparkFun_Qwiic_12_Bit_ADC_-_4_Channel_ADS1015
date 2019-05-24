@@ -22,7 +22,7 @@ Repository Contents
 Documentation
 --------------
 * **[Arduino Library for the ADS1015](https://github.com/sparkfun/SparkFun_ADS1015_Arduino_Library)** - Arduino library for the ADS1015.
-* **[Hookup Guide](https://learn.sparkfun.com/tutorials/qwiic-12-bit-adc)** - Basic hookup guide for the SparkFun Qwiic 12 Bit ADC - 4 Channel ADS1015. Includes hardware overview, software installation instructions and overviews of each example in the arduino library.
+* **[Hookup Guide](https://learn.sparkfun.com/tutorials/qwiic-12-bit-adc-hookup-guide)** - Basic hookup guide for the SparkFun Qwiic 12 Bit ADC - 4 Channel ADS1015. Includes hardware overview, software installation instructions and overviews of each example in the arduino library.
 
 License Information
 -------------------
